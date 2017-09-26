@@ -1,0 +1,12 @@
+* Tue May 16 2017 Simonas Leleiva <simonas.leleiva@meramo.co.uk> - 0.0.4
+- [f5121] Fix userdebug string. JB#38376
+- [rpm] Sony's /system build requires rsync. JB#38376
+
+* Mon May 15 2017 Simonas Leleiva <simonas.leleiva@meramo.co.uk> - 0.0.2
+- [f5121] Add droid-src-syspart repo as rpm/. JB#38376
+- [f5121] Add tagged-manifest.xml. JB#38376
+- [syspart] Added necessary submodules for systemimage building. Contributes JB#37558
+- [syspart] Add remaining repositories to match the original aosp build. Contributes JB#38376
+- [syspart] Add system/bt for Bluetooth support. JB#38376
+- [syspart] Switch SW binaries to v10. JB#38373
+
